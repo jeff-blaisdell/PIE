@@ -7,6 +7,19 @@
   ],
   "description": "A bower wrapper for lojjic's PIE library.",
   "main": "build/PIE.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "demos",
+    "documentation",
+    "site",
+    "sources",
+    "tests",
+    "tools"
+  ],
   "keywords": [
     "pie",
     "css3pie",
